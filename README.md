@@ -18,6 +18,6 @@ Multi-page rebuild created from the recovered original RONMAXAKS source media an
 - RONMAXAKS subcontractor/company profile PDF and DOCX
 
 ## Creator credit
-Footer includes a clickable HTML-style credit linking to https://spirit2k5.github.io/spirit2k5/
+Footer includes a clickable HTML-style credit linking to https://spirit2k5.co.za/
 
 Created by spirit2k5.
